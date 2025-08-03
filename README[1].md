@@ -28,4 +28,4 @@ Aspirant 1 (Constitutional Law, Delhi) -> Recommended Mentors:
   3. Mentor 104 (Contract Law, Chennai) - Available 3 hrs/week
 
 ## 📌 Author
-Mudassir Aousaf  
+Mudabbir Arafat
